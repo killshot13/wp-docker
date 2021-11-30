@@ -2,19 +2,12 @@
 
 ## Dockerized Wordpress Environment w/ MySQL
 
-### Project Structure
-
-wp-docker
-
-.
-├── 
-.gitignore
-├── 
-LICENSE
-├── 
-README.md
-└── 
-docker-compose.yaml
+| Project Structure |
+|---|
+| ├── .gitignore |
+| ├── LICENSE |
+| ├── README.md |
+| └── docker-compose.yaml |
 
 [_docker-compose.yaml_](docker-compose.yaml)
 
