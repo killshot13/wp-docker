@@ -7,10 +7,14 @@
 wp-docker
 
 .
-├── .gitignore
-├── LICENSE
-├── README.md
-└── docker-compose.yaml
+├── 
+.gitignore
+├── 
+LICENSE
+├── 
+README.md
+└── 
+docker-compose.yaml
 
 [_docker-compose.yaml_](docker-compose.yaml)
 
