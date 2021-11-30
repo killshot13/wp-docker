@@ -1,10 +1,10 @@
-# sth-docker
+# wp-docker
 
 ## Dockerized Wordpress Environment w/ MySQL
 
 ### Project Structure
 
-sth-docker
+wp-docker
 
 .
 ├── .gitignore
